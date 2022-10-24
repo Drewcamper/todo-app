@@ -1,0 +1,26 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.title{
+  top: 50px;
+  align-items: center;
+  position: absolute;
+  padding-bottom: 30px;
+}
+
+.List{
+  top: 370px;
+  height: 5vh;
+  position: absolute;
+}
+
+.PrivateSwitchBase-input-4{
+  background-color: black;
+}

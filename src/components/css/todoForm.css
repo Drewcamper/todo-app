@@ -1,0 +1,8 @@
+.todo-form {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    top: 290px;
+    background-color: transparent;
+  }
